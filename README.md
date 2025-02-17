@@ -1,6 +1,6 @@
 # DigitalOcean Promo Code 2025: Get Up to $200 Free Credits [Updated Monthly]
 
-**Last updated: February 17, 2025**
+![digitalocean promo code](https://camo.githubusercontent.com/05c7a8c2dbab78e3e9582b846fd4cbcc3feeac37e09f2f7848ab400af5ed9cf5/68747470733a2f2f692e696d6775722e636f6d2f6f35796f35554c2e6a706567 "digitalocean promo code")
 
 ## Table of Contents
 - [Active Promo Codes](#active-promo-codes)
