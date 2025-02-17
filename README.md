@@ -11,7 +11,7 @@
 
 ## Active Promo Codes
 
-Here are the current verified DigitalOcean promotional codes for February 2025:
+Here are the current verified DigitalOcean promotional codes for 2025:
 
 | Coupon Code   | Description                                           |
 |---------------|-------------------------------------------------------|
