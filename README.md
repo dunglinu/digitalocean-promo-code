@@ -9,7 +9,7 @@
 - [Maximizing Savings](#maximizing-savings)
 - [FAQ](#faq)
 
-## Active Promo Codes
+## Active DigitalOcean Promo Codes
 
 Here are the current verified DigitalOcean promotional codes for 2025:
 
