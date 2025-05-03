@@ -15,6 +15,7 @@ Here are the current verified DigitalOcean promotional codes for 2025:
 
 | Coupon Code   | Description                                           |
 |---------------|-------------------------------------------------------|
+| [`DIGITALOCEAN200`](https://tinyurl.com/dofreecredit) | $200 DigitalOcean Free Credit for new users, valid for 60 days    |
 | [`WELCOME2025`](https://tinyurl.com/dofreecredit) | $200 free credits for new users, valid for 60 days    |
 | [`DO200FREE`](https://tinyurl.com/dofreecredit)   | $200 credit for first-time users with email verification |
 | [`DOSTART100`](https://tinyurl.com/dofreecredit)  | $100 initial credit + $100 after spending first $25   |
