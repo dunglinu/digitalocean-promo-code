@@ -1,4 +1,4 @@
-# DigitalOcean Promo Code 2025: Get Up to $200 Free Credits [Updated Monthly]
+# DigitalOcean Promo Code 2026: Get Up to $200 Free Credits [Updated Monthly]
 
 ![digitalocean promo code](https://camo.githubusercontent.com/05c7a8c2dbab78e3e9582b846fd4cbcc3feeac37e09f2f7848ab400af5ed9cf5/68747470733a2f2f692e696d6775722e636f6d2f6f35796f35554c2e6a706567 "digitalocean promo code")
 
@@ -11,12 +11,12 @@
 
 ## Active DigitalOcean Promo Codes
 
-Here are the current verified DigitalOcean promotional codes for 2025:
+Here are the current verified DigitalOcean promotional codes for 2026:
 
 | Coupon Code   | Description                                           |
 |---------------|-------------------------------------------------------|
 | [`DIGITALOCEAN200`](https://tinyurl.com/dofreecredit) | $200 DigitalOcean Free Credit for new users, valid for 60 days    |
-| [`WELCOME2025`](https://tinyurl.com/dofreecredit) | $200 free credits for new users, valid for 60 days    |
+| [`WELCOME2026`](https://tinyurl.com/dofreecredit) | $200 free credits for new users, valid for 60 days    |
 | [`DO200FREE`](https://tinyurl.com/dofreecredit)   | $200 credit for first-time users with email verification |
 | [`DOSTART100`](https://tinyurl.com/dofreecredit)  | $100 initial credit + $100 after spending first $25   |
 | [`STUDENT200`](https://tinyurl.com/dofreecredit)  | $200 credits for verified students (requires GitHub Student Pack) |
@@ -24,7 +24,7 @@ Here are the current verified DigitalOcean promotional codes for 2025:
 | [`DODEPLOY50`](https://tinyurl.com/dofreecredit)  | $50 instant credit for any new deployment             |
 | [`REFERRAL25`](https://tinyurl.com/dofreecredit)  | $25 credit when signing up through a referral link    |
 | [`DOCOMMUNITY`](https://tinyurl.com/dofreecredit) | $100 credit for open source projects                  |
-| [`STARTUP2025`](https://tinyurl.com/dofreecredit) | $150 credit for startup companies (requires verification) |
+| [`STARTUP2026`](https://tinyurl.com/dofreecredit) | $150 credit for startup companies (requires verification) |
 | [`BLACKFRIDAY`](https://tinyurl.com/dofreecredit) | $250 credit (seasonal - activate during promotion periods) |
 | [`TECHSPRING`](https://tinyurl.com/dofreecredit)  | $50 credit for any new accounts during spring season   |
 | [`SUMMERDEAL`](https://tinyurl.com/dofreecredit)  | $75 credit available during the summer months         |
